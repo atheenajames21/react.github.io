@@ -1,0 +1,14 @@
+.buttonCss{
+    margin: 1%;
+    align-content: center;
+    min-width: 10px;
+    max-width: fit-content;
+    background-color: brown;
+ 
+}
+.cardCss{
+ 
+    align-content: center;
+    padding: 2%;
+    margin: 2%;
+}
